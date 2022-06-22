@@ -1,4 +1,4 @@
-# GrupAnkara-Websitesi
+# GrupAnkara-Website
 
 It's a responsive website that I developed for Grup Ankara by using Javascript, HTML5, CSS3 and Bootstrap.
 
